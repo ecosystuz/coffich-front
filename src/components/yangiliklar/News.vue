@@ -182,7 +182,7 @@ const closeModal = () => {
   font-family: 'Plus Jakarta Sans', sans-serif;
   padding: 60px 20px 80px 20px;
   box-sizing: border-box;
-  margin-top: 100px;
+  margin-top: 85px;
 }
 
 .coffich-header {

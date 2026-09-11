@@ -135,8 +135,7 @@ const branches = ref([
   position: relative;
   overflow: hidden;
   font-family: 'Plus Jakarta Sans', sans-serif;
-  border-radius: 40px;
-  margin-top: 100px;
+    margin-top: 85px;
 }
 
 /* Фоновое свечение */

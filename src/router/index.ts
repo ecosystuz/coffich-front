@@ -39,7 +39,12 @@ import HomeView from '@/views/HomeView.vue'
           name:'News',
           alias:'News',
           component: ()=> import('@/components/yangiliklar/News.vue')
-        }
+        },
+  //       { 
+  //   path: '/:pathMatch(.*)*', 
+  //   name: 'NotFound', 
+  //   component: NotFound 
+  // }
       ]
     }
   ],
